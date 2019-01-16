@@ -1,0 +1,21 @@
+.waste_container div,
+.waste_container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-items: flex-start;
+  justify-content: left;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+.spacer {
+  margin-left: auto;
+}
+.waste_container button {
+  background-color: transparent;
+  border-color: transparent;
+}
+
+.description {
+  max-width: 60%;
+}

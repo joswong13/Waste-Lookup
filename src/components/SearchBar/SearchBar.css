@@ -1,0 +1,13 @@
+.input_container {
+  margin-top: 0.5em;
+}
+.input_container input {
+  padding-top: 0.5em;
+  min-width: 40%;
+  width: 80%;
+}
+
+.input_container img {
+  width: 20px;
+  height: 20px;
+}
