@@ -20,10 +20,10 @@ const htmlDecode = rawHTML => {
 const handleStarColor = favorited => {
   if (favorited) {
     console.log("TRUE", favorited);
-    return <MaterialIcon key={Math.random()} icon="star" color="#0B7712" />;
+    return <MaterialIcon key={1} icon="star" color="#0B7712" />;
   } else {
     console.log("FALSE", favorited);
-    return <MaterialIcon key={Math.random()} icon="star" color="#818181" />;
+    return <MaterialIcon key={2} icon="star" color="#818181" />;
   }
 };
 
