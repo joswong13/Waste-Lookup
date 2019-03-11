@@ -1,5 +1,5 @@
 Hosted at "https://wastelookup.firebaseapp.com/"
-
+[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)]
 Functions:
 
 Search for keywords such as clothes or plastics and Waste Lookup will search for the topics relevant to your search.
