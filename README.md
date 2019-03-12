@@ -5,7 +5,7 @@ Favorite a certain item by clicking on the gray star and it will populate on the
 Remove favorite item by clicking on the green star in either search results or favorites list.
 
 Screenshots:
-[Main_Page](./screenshots/Main_Page.PNG)
+![Main_Page](./screenshots/Main_Page.PNG)
 
 References:
 
